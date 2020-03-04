@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ddark\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ddark\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DOTS Networking.1714393819.00" t="ExcludeRecursive" />
+    <e p="F:\Unity Projects\Git Repositories\DOTS Networking" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="1-Scripts" t="Include">
+          <e p="CubeInput.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="Generated" t="Include">
+            <e p="NetCubeGhostSerializer.cs" t="Include" />
+            <e p="NetCubeGhostUpdateSystem.cs" t="Include" />
+            <e p="NetCubeSnapshotData.cs" t="Include" />
+          </e>
+          <e p="MovableCubeComponent.cs" t="Include" />
+          <e p="MoveCubeSystem.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+        </e>
+        <e p="GhostDeserializerCollection.cs" t="Include" />
+        <e p="GhostSerializerCollection.cs" t="Include" />
+      </e>
+      <e p="DOTS Networking.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
